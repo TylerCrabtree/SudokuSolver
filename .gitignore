@@ -1,0 +1,7 @@
+*~
+*.o
+*.dSYM
+*.zip
+*.gz
+*.swp
+solvesudoku
